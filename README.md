@@ -1,6 +1,6 @@
 ## ChatBot With Python
 
-*To create a ChatBot you should install some libraries. *
+*To create a ChatBot you should install some libraries.*
 
 *To install the PIP on your pc put this code below on your prompt.*
 ```

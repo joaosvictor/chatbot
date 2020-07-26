@@ -1,0 +1,11 @@
+// all conversations will be played here and saved to the bot that will record.
+/*
+    "Hi there!", #User 
+    "Hello", #Mike
+    "How are you?", #User
+    "I am good.", #Mike
+    '"That is good to hear.", #User
+    "Thank you",#Mike
+ */
+ 
+ //if you put some sentence that isn't here the bot will answer: "I don't understand" because you should put here what he will answer acconding to the ask.

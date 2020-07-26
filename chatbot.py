@@ -1,5 +1,6 @@
 #Before doing anything else, I need to import the ChatterBot which is done like this:
 from chatterbot import ChatBot
+from time import sleep
 from chatterbot.trainers import ListTrainer
 
 
@@ -28,7 +29,7 @@ talk.train([
     '"That is good to hear.", #User
     "Thank you",#Mike
 ])
-
+sleep(0.5)
 
 #I create an infinite loop with the while for Mike to receive the user's question, analyze, process and answer!
 #in Mike's answer I use the confidence() function, to define that if the answer's confidence level is less than 0.5 ->
